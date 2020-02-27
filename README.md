@@ -1,0 +1,2 @@
+# HBNewFeaturesGuideManager
+App新功能指引管理器
